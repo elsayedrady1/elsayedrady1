@@ -1,5 +1,5 @@
 ### Hi there 👋, Here's Sayed
-#### Software Engineer
+#### Full-stack developer
 My name is Sayed. I'm Passionate Full-Stack developer 
 
 Skills: React, NextJs, NestJs, MongoDB, Prisma, ExpressJs
